@@ -14,7 +14,15 @@ instructions on installing Git for various operating systems.
 
 ## Preparing Your Working Directory
 
-We'll do our work in the `Desktop` folder so make sure you change your working directory to it with:
+We'll do our work in a new project folder wherever you keep coding projects. Change your working directory to the parent directory
+of your projects. For instance, if you keep your projects in a directory called "projects" in your home directory, change into it with:
+
+```bash
+$ cd
+$ cd projects
+```
+
+If you keep your projects in a folder on your desktop, change to your desktop folder with:
 
 ```bash
 $ cd
